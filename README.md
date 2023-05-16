@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kuruva.manoj2020@vitbhopal.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17716PcfXi7XgGHdk_BNxS5CdjI7IVucN/edit?usp=share_link&ouid=117174492050717886451&rtpof=true&sd=true](https://docs.google.com/document/d/17716PcfXi7XgGHdk_BNxS5CdjI7IVucN/edit?usp=share_link&ouid=117174492050717886451&rtpof=true&sd=true)
+- 📄 Know about my experiences [click here](https://docs.google.com/document/d/17716PcfXi7XgGHdk_BNxS5CdjI7IVucN/edit?usp=share_link&ouid=117174492050717886451&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am calm,composed guy with a great helping nature**
 
