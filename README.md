@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Machine Learning n its models, Data Cleaning, Transformantion**
 
-- 📫 How to reach me **kuruva.manoj2020@vitbhopal.ac.in**
+- 📫 How to reach me **manojkuruva22@gmail.com**
 
 - 📄 Know about my experiences [**RESUME**](https://docs.google.com/document/d/17716PcfXi7XgGHdk_BNxS5CdjI7IVucN/edit?usp=share_link&ouid=117174492050717886451&rtpof=true&sd=true)
 
