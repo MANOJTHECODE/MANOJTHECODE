@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkuruva" alt="manojkuruva" /></a> </p>
 
-- 🔭 I’m currently working on **Automation of playlist creation**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Deep learning models, furnishing my Data Analytics skills**
 
