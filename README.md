@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [**RESUME**](https://docs.google.com/document/d/17716PcfXi7XgGHdk_BNxS5CdjI7IVucN/edit?usp=share_link&ouid=117174492050717886451&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am cool, composed guy with a great helping nature**
+- ⚡ Fun fact **I am lazy but makes sure that work gets done**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
