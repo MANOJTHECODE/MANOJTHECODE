@@ -1,6 +1,6 @@
 # Manoj Kuruva
 <h1 align="center">Hi 👋, I'm Kuruva Manoj</h1>
-<h3 align="center">A passionate ML & Data Science engineer from India.Passionate about data analysis and data science. Constantly striving to enhance my skills in line with the latest industry trends. Dedicated and hardworking techie committed to continuous improvement and growth.</h3>
+<h3 align="center">A passionate ML & Data Science engineer from India.I am Passionate about data analysis and data science. Constantly striving to enhance my skills in line with the latest industry trends. Dedicated and hardworking techie committed to continuous improvement and growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkuruva&label=Profile%20views&color=0e75b6&style=flat" alt="manojkuruva" /> </p>
 
